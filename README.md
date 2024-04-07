@@ -1,4 +1,4 @@
-# DL-with-Flask-beginner
+# DeepLearning-with-Flask-beginner
 使用flask部署深度学习模型的一个简单演示。
 ## 文件说明
 * weights文件下存放训练好的模型权重，这里用的是yolov5模型
